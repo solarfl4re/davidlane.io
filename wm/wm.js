@@ -20,7 +20,7 @@ function get_upc() {
   }
  
   var api_key = 'yhd4bxdjy4cqzhgqvmbdk4uu';
-  var query = 'http://api.walmartlabs.com/v1/items/' + item_id + '?apiKey=' + api_key + '&format=json&callback=process_request';
+  var query = 'https://api.walmartlabs.com/v1/items/' + item_id + '?apiKey=' + api_key + '&format=json&callback=process_request';
   
   var script = document.createElement('script');
   script.setAttribute('src', query);
