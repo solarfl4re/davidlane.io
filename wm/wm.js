@@ -45,8 +45,8 @@ function process_request(r) {
 
     // Make a div to contain them
     div = document.createElement('div');
-    div.appendChild(p);
     div.appendChild(canvas);
+	div.appendChild(p);
 
     // Add to the document
     document.getElementsByTagName('body')[0].appendChild(div);
