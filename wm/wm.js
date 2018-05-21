@@ -59,3 +59,9 @@ function process_request(r) {
   }
 
   }
+  
+  function clear_search_text() {
+    document.getElementsByName('search_input')[0].value = "";
+  }
+  
+  
