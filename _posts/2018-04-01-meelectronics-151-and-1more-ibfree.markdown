@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Long-term usage report on MEElectronics 151 and 1MORE’s iBFree wireless earbuds"
+title: "MEElectronics A151 and 1MORE’s iBFree earbuds in use"
 categories: audio reviews
 ---
 
@@ -13,15 +13,17 @@ My journey in headphones and earbuds, from my teens to now (late 20s), looks lik
 
 The inexpensive earbuds I started with worked well; I didn't ask for much from them, just plugging them into the computer and gaming and listening to music. Sound quality was just OK.
 
-## MEElectronics IEMs (now MEEaudio)
+## MEElectronics A151 IEMs (now MEEaudio)
 The MEElectronics have been the best purchase of all: mid-range price ($40-$50), light and small, with an excellent case, a great twisted cable that is far more durable than its lightness would have you believe.
 I never got any of the included plasticy eartips to work for me, and bought [Comply foamies](https://www.amazon.com/gp/product/B003JBURNW/). Great, great purchase!
+
 I had the fortune to go on a trip to Russia's Far East in the summer of 2017, with stops in Japan on the way in and out, and my MEElectronics, along with my [Arc'teryx Atom LT](https://www.amazon.com/ARCTERYX-Atom-Hoody-Katalox-Small/dp/B01N40K9HX/) (a very light jacket with synthetic insulation) were my best friends. The IEMs, for their excellent sound isolation. On planes and buses and trains this was a lifesaver, and with the Comply foamies, allowed me to hear my music without turning the volume overly loud - one of the best benefits of isolation.
+
 The closest available equivalent appear to be the [M6 Pro IEMs](http://www.meeaudio.com/M6PRO-BK) from MEEaudio, as the A151s are no longer available.
 > *Side note*: The same [Atom LT](https://www.amazon.com/ARCTERYX-Atom-Hoody-Katalox-Small/dp/B01N40K9HX/) has been with me for more than 7 years, and has seen use nearly every day at home in Alaska. The lightweight face fabric and breathable fleece sides make a jacket that wears like a soft, warm, breathable blanket. Which is how I used it when traveling, covering my head on a 12-hour flight to Japan, which combined with my IEMs allowed me to sleep. Huge props to Arc'teryx for making my favorite jacket, ever. I know my brother-in-law would/will be disgusted by this apparent fanboyism, but it really is a great piece of kit.
 
 ## [1MORE iBFree](https://usa.1more.com/collections/headphones/products/ibfree-bluetooth-in-ear-headphones) Bluetooth earbuds (1st gen, not the newer Sport model)
-![Illustration of 1MORE iBFree Bluetooth earbuds](Image%2001-04-2018,%2019-43.jpeg)
+![Illustration of 1MORE iBFree Bluetooth earbuds]({{ "/images/2018-04-01/meelectronics_A151.jpeg" | absolute_url }})
 I want to share some long-term usage notes for the 1MORE iBFree bluetooth IEMs, in the hope that headphone-buyers would find the discussion interesting. **They are good earbuds and I recommend them for overall good performance**, if the nitpicks are not a deal breaker.
 
 As far as wireless earbuds go, I have mixed feelings. On the one hand, wireless is convenient, especially while engaged in some other activity. And they are faster to get out - [I coil my IEMs cord over/under](https://youtu.be/cpuutP6Df84?t=25s), to avoid putting twists in the cable and to maximize its life, but it takes 30-40 seconds to put them away. So, a win for wireless.
@@ -30,17 +32,20 @@ Which results in sitting down at your favorite coffee shop and then realizing th
 
 ### UI
 The other big issue, for me, is the UI, or user interface. This is something I struggle to find in reviews, and yet this is the what you will deal with every time you turn them on and off, adjust the volume, or attempt to trigger Siri or Google Now (not a feature of these, as far as I know).
+
 _Primary annoyance_: when the battery is low, the 1MORE's will, every minute or so, announce into your ear "Battery Low". At a volume that usually exceeds my music or audio, which cuts out while the notification goes on. This is surprisingly infuriating, and makes using them with a low battery a bother. It's also pointless; tell me once when I turn them on and then be done with it.
 
 Other than that, turning them on and off takes about 4 seconds of holding the main multi-function button. When you use your earbuds frequently, sometimes taking them out for a call, this gets annoying quickly. My (ideal) solution: a physical slider switch - on, and off. Not only is activation instant, but it would be easily accomplished by feel alone.
 
 ## Conclusion
 So what can you learn from my (limited) experience?
+
 Wired (IEMs):
 > Pros: 
 > - light
 > - isolate well with deep insertion and good ear tips
 > - reliable (not wireless and don’t need to be charged)
+
 > Cons:
 > - wires
 > - poor situational awareness due to isolation (a blessing and a curse)
@@ -50,6 +55,7 @@ Wireless:
 > - convenient
 > - well suited for use while moving
 > - no wires
+
 > Cons:
 > - reliability (bluetooth isn’t perfect and they must be charged)
 > - UI may be a point of pain.
